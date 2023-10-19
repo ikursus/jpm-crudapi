@@ -1,1 +1,0 @@
- C:\\Appdev\\projects\\fluttercrudapi\\.dart_tool\\flutter_build\\ee540f05a72665c0d2fbd2c7e9382e80\\native_assets.yaml: 
